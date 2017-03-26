@@ -1,0 +1,16 @@
+{
+    "name": "Graphp",
+    "version": "0.0.1", 
+    "authors": [
+        {
+            "name": "Bruno Fidelis", 
+            "email": "bruno.fidelis004@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "Graphp\\App\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
